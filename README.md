@@ -1,2 +1,2 @@
 # SEARCH
- Harvard University python and javascripts
+Harvard University cs50 python and Javascripts
